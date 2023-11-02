@@ -13,6 +13,7 @@ Welcome to my openbox dots, here are my .config files as well as .themes, .fonts
 - nemo (file manager)
 - lxappearance (to set the GTK theme)
 - rofi (application launcher)
+- picom (X compositor, basically shadows and shit)
 - pamixer (to control pulseaudio, it's not that important but a must if you want my default keybindings to work)
 
 # installation 
