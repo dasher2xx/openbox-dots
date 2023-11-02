@@ -1,5 +1,6 @@
 # openbox-dots
 Welcome to my openbox dots, here are my .config files as well as .themes, .fonts, and .icons folders
+IMPORTANT: Add . at the beginning of folder names 
 
 # dependencies
 
